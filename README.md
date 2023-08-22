@@ -36,6 +36,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Wasif-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wasifali22/)
+- [![Email Badge](https://img.shields.io/badge/Email-Direct-blue?style=flat&logo=email&logoColor=white)](mailto:wasifjdm@gmail.com)
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
